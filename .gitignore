@@ -38,3 +38,6 @@ out/
 
 # Sentry
 .sentryclirc
+
+# secrets
+./backend/src/certificates/
